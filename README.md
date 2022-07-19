@@ -18,6 +18,6 @@ My credentials include a Bachelor's in Environmental Engineering from University
 ## Projetos:
 Veja os projetos do Sigmoidal que realizei:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Analisando os Dados do Airbnb:** https://bit.ly/2L2cMwy
 
 ---
