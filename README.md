@@ -19,6 +19,6 @@ My credentials include a Bachelor's in Environmental Engineering from University
 Veja os projetos do Sigmoidal que realizei:
 
 * **Analisando os Dados do Airbnb:** https://bit.ly/3p8ACtX
-* **Panorama do COVID-19 no Brasil:** 
+* **Panorama do COVID-19 no Brasil:** https://bit.ly/3QxB9kL
 
 ---
