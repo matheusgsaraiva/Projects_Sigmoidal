@@ -20,5 +20,6 @@ Veja os projetos do Sigmoidal que realizei:
 
 * **Analisando os Dados do Airbnb:** https://bit.ly/3p8ACtX
 * **Panorama do COVID-19 no Brasil:** https://bit.ly/3QxB9kL
+* **Detecção de fraude em cartões de crédito:** https://bit.ly/3Q31whK
 
 ---
