@@ -5,21 +5,21 @@
 # Matheus Gimenez Saraiva
 <sub>*Master Student of Géographies Numériques* at Université Jean Monnet Saint-Etienne</sub>
 
-As a master student in the area of geomatic I developed an interest in programmation and spatial analysis related problems.
+As a master student in the area of geomatics I have developed an interest in programmation and spatial analysis related problems.
 
 My credentials include a Bachelor's in Environmental Engineering from University of São Paulo (USP), an institution of higher education and advanced research rated as one of the top and most prestigious universities in Latin America.
 
-**Background in:** Python and Spatial Analysis.
+**Background in:** Python, SQL and Spatial Analysis.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/mgsaraiva)
 
 
 ## Projetos:
-Veja os projetos do Sigmoidal que realizei:
+Check the projects from Sigmoidal that I have developed:
 
-* **Analisando os Dados do Airbnb:** https://bit.ly/3p8ACtX
-* **Panorama do COVID-19 no Brasil:** https://bit.ly/3QxB9kL
-* **Detecção de fraude em cartões de crédito:** https://bit.ly/3Q31whK
+* **Analyzing Airbnb Data:** https://bit.ly/3p8ACtX
+* **COVID-19 overview in Brazil:** https://bit.ly/3QxB9kL
+* **Credit Card Fraud Detection:** https://bit.ly/3Q31whK
 
 ---
