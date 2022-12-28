@@ -15,7 +15,7 @@ My credentials include a Bachelor's in Environmental Engineering from University
 * [LinkedIn](https://www.linkedin.com/in/mgsaraiva)
 
 
-## Projetos:
+## Projects:
 Check the projects from Sigmoidal that I have developed:
 
 * **Analyzing Airbnb Data:** https://bit.ly/3p8ACtX
